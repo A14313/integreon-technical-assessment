@@ -12,6 +12,9 @@ integreon-technical-assessment
 -   CSS Grid
 -   SCSS
 -   Mobile-first workflow
+
+### Features
+
 -   Added some hover transitions and animations
 -   Added mobile layout, from 320px up to the largest possible screen
 -   Fully Responsive Website
